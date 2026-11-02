@@ -1,0 +1,36 @@
+lib/core/utils/server_path.dart
+  s_02628d5be6437c::t_bcdd8d2ad3d9e4 101
+  s_02628d5be6437c::t_81a56e7a3e5027 95-96
+  s_02628d5be6437c::t_8353ce03a8299a 1-94,97-100,102-135
+test/pj1215_projects_gateway_contract_test.dart
+  s_02628d5be6437c::t_bcdd8d2ad3d9e4 163-195
+test/pc1215_project_create_test.dart
+  s_02628d5be6437c::t_8353ce03a8299a 44,67-72,125-135,140-179,784-797,955-1043
+lib/core/services/tui_gateway_client.dart
+  s_02628d5be6437c::t_8678c5a32c8ae2 61,7588-7590
+lib/core/widgets/projects/project_create_sheet.dart
+  s_02628d5be6437c::t_8353ce03a8299a 11,86,89,91,255-258,313,463
+test/server_path_test.dart
+  s_02628d5be6437c::t_bcdd8d2ad3d9e4 83
+  s_02628d5be6437c::t_8353ce03a8299a 1-82,84-142
+lib/core/widgets/projects/project_files_browser.dart
+  s_02628d5be6437c::t_8353ce03a8299a 24,85-86,93,99-102,149,160,171-172,175,181-182,192,198,234,674-677,1192,1206
+lib/core/screens/projects_center_screen.dart
+  s_02628d5be6437c::t_d7974dea1490b0 17,374
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.7.3",
+  "base_commit_sha": "0dbd7a112010b1436d1110d801f168e648b65feb",
+  "prompts": {},
+  "sessions": {
+    "s_02628d5be6437c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a168af-9f40-7a22-a99e-1b040a5ad083",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "AI_BA <ai_ball@outlook.com>"
+    }
+  }
+}
